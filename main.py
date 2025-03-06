@@ -3,7 +3,7 @@ import ast
 import textwrap
 import subprocess
 
-# Set page config at the very beginning
+# Set page config 
 st.set_page_config(page_title="Code Error Detector", page_icon="🐍", layout="centered")
 
 # Custom CSS to center title
